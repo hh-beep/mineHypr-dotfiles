@@ -1,3 +1,4 @@
+![background](https://raw.githubusercontent.com/hh-beep/mineHypr-dotfiles/refs/heads/image_readme/image.png)
 # Minecraft hyprland:
 
 - Ble.sh (terminal autocompletion)
